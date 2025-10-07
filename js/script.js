@@ -1,3 +1,6 @@
+// Added a console log for debugging and confirmation
+console.log("Student Info Portal script is running successfully.");
+
 // Handle form submission
 const form = document.getElementById('studentForm');
 if (form) {
