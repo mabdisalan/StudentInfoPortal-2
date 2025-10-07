@@ -74,3 +74,9 @@ th {
   background-color: #004aad;
   color: white;
 }
+
+input:focus {
+  outline: none;
+  border: 2px solid #007BFF;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.4);
+}
