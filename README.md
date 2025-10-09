@@ -1,4 +1,12 @@
 # StudentInfoPortal-2
+members of the group
+mohamed Abdisalan-673019
+Dev Patel 670820
+George Edward 672688
+BHAKTESH PATE-673583
+Prit Prajapati -672746
+Samuel Gichura- 674249
+David Kamau 669998
 
 A lightweight client-side web app for adding and viewing student information. The project uses plain HTML, CSS and JavaScript and stores data locally in the browser using localStorage. It's ideal as a learning project or a starter template for small demos.
 
