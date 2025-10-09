@@ -53,9 +53,19 @@ If you use VS Code, the Live Server extension is a convenient option: right-clic
 	- Make sure JavaScript is enabled in your browser.
 	- Check the console (F12 → Console) for errors; `js/script.js` logs a startup message.
 	- If you opened pages as `file://` and encounter restrictions, try serving via `python -m http.server` or Live Server.
+   
+ ## Future Improvements
+- Add edit and delete functionality for student records  
+- Include a search or filter option in the students table  
+- Implement sorting by name, age, or course     
 
-
-
+##  Testing
+- Open `form.html` and add a few student records.  
+- A confirmation message appears below the form showing the student has been added.  
+- Go to `students.html` and confirm that the added names appear correctly.  
+- Refresh the page — data should persist because it’s stored in `localStorage`.  
+- To clear all data, open your browser’s DevTools → Local Storage → remove the `students` key.
+  
 ---
 
 
