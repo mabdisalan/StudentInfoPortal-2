@@ -1,11 +1,13 @@
-**Members of the group**
-- Mohamed Abdisalan – 673019  
-- Dev Patel – 670820  
-- George Edward – 672688  
-- Bhaktesh Pate – 673583  
-- Prit Prajapati – 672746  
-- Samuel Gichura – 674249  
-- David Kamau – 669998
+## 👥 Members of the Group  
+Mohamed Abdisalan – 673019  
+Dev Patel – 670820  
+George Edward – 672688  
+Bhaktesh Pate – 673583  
+Prit Prajapati – 672746  
+Samuel Gichura – 674249  
+David Kamau – 669998  
+Riziki Atieno – 672489  
+
 
 
 
